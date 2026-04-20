@@ -11,8 +11,7 @@ Este projeto foi desenvolvido com o objetivo de criar e aprimorar o uso de uma A
 - **TSX**: Ferramenta para executar arquivos TypeScript diretamente.
 
 ## Status do projeto
-> Desenvolvimento ainda pendente
-> Falta outros metodos
+> Desenvolvimento ainda pendente, falta outros metodos
 
 ## Funcionalidades 
 
